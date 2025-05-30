@@ -30,7 +30,7 @@ Esta API realiza uma requisição HTTP (`GET /turmas/<id>`) para validar se a **
 
 ```bash
 git clone https://github.com/L-diaaas/APIReservaSala.git
-cd ReservaSala 
+cd ReservaSalas 
 ```
 
 ### 2. (Opcional) Crie um ambiente virtual
